@@ -1,0 +1,4 @@
+#Mon Jun 21 09:31:56 IST 2021
+base.0=E\:\\HHH\\Development\\3k-baroda\\wicker\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

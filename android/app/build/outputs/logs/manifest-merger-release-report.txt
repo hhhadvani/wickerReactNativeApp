@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.react:react-native:0.64.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5249b780f5d7b0db7081963442f1a0d5\jetified-react-native-0.64.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\790253f37a4634ec2fd966475e462aab\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\399491c06323308c0364f51a20caaf43\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ae47afe465c548b174dec2b28fc65fd8\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\95cbcdd264a2eccacc08be754a9be679\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\82ae702ce6452c85bbcde570c36bca5b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b9ac4dfec76d41d25d49aba686953f78\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\8644bc81aed78575f2807153cb06c9a4\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5f97a1bc41f8d2940b4f4620a82d2295\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\817cf439cc351ecf5947da114ac983aa\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\c1f4a4d7500d5e66ae941fa2ce90ffb6\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6b5e3f2217578ccd4150698896c6afa8\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\67cf7ff08db5d83cef85044797b18cb3\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\cc7900cc032c8ebc746550aedd318b64\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\31e17e37ba557608f6ebc5120e56a202\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\4a7e3a6a5b12d48699851e0cd7ae034e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\1bb65d76bc4c53e4fd0fa77c28d107ec\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a47f54f635de7d20b4fce10400b87fde\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\54a6463602e092e46e6a3bac5a75d6f2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\291b0dc121fa3d21c4d609cf60748a6c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a6b723c7869879458195c7c80f7bb2e8\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\63d693d6393609dd312217953d27b75c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\af4ce0c025385f4d674c3fbc90c74bbd\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\dfb7ac91904b3c5a9d1a67aa3c159bd7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\d88be84dffbca90874262a60190a4c2c\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b04f2c4be16ad067ab6c37b78b3c3324\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3d3b0751e6f78ff8c1df2664b2714ed8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6fabb262a35633339c88e4ab9edd41ea\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\0c170a5bf61b9b60ba30f013c401aa8b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\871eada208e4b1d3c3f2e0d7eeb7730e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\763fff8338f14250d307a24463e7c6bd\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\208b9caf462c67f1190894c29d85fccf\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3eec0492784393c9e1fd138d70bf69db\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\9881669981dc1910aa81989cb9ff5831\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ab0d30d0668f894bc7284ce2e7e6c524\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\61c08a0ae42250674b647968afabdbca\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:2:3-23
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.64.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5249b780f5d7b0db7081963442f1a0d5\jetified-react-native-0.64.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5249b780f5d7b0db7081963442f1a0d5\jetified-react-native-0.64.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\31e17e37ba557608f6ebc5120e56a202\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\31e17e37ba557608f6ebc5120e56a202\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b04f2c4be16ad067ab6c37b78b3c3324\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b04f2c4be16ad067ab6c37b78b3c3324\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.wicker.MainActivity
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.64.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5249b780f5d7b0db7081963442f1a0d5\jetified-react-native-0.64.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5249b780f5d7b0db7081963442f1a0d5\jetified-react-native-0.64.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\790253f37a4634ec2fd966475e462aab\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\790253f37a4634ec2fd966475e462aab\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\399491c06323308c0364f51a20caaf43\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\399491c06323308c0364f51a20caaf43\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ae47afe465c548b174dec2b28fc65fd8\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ae47afe465c548b174dec2b28fc65fd8\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\95cbcdd264a2eccacc08be754a9be679\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\95cbcdd264a2eccacc08be754a9be679\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\82ae702ce6452c85bbcde570c36bca5b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\82ae702ce6452c85bbcde570c36bca5b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b9ac4dfec76d41d25d49aba686953f78\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b9ac4dfec76d41d25d49aba686953f78\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\8644bc81aed78575f2807153cb06c9a4\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\8644bc81aed78575f2807153cb06c9a4\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5f97a1bc41f8d2940b4f4620a82d2295\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\5f97a1bc41f8d2940b4f4620a82d2295\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\817cf439cc351ecf5947da114ac983aa\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\817cf439cc351ecf5947da114ac983aa\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\c1f4a4d7500d5e66ae941fa2ce90ffb6\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\c1f4a4d7500d5e66ae941fa2ce90ffb6\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6b5e3f2217578ccd4150698896c6afa8\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6b5e3f2217578ccd4150698896c6afa8\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\67cf7ff08db5d83cef85044797b18cb3\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\67cf7ff08db5d83cef85044797b18cb3\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\cc7900cc032c8ebc746550aedd318b64\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\cc7900cc032c8ebc746550aedd318b64\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\31e17e37ba557608f6ebc5120e56a202\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\31e17e37ba557608f6ebc5120e56a202\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\4a7e3a6a5b12d48699851e0cd7ae034e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\4a7e3a6a5b12d48699851e0cd7ae034e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\1bb65d76bc4c53e4fd0fa77c28d107ec\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\1bb65d76bc4c53e4fd0fa77c28d107ec\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a47f54f635de7d20b4fce10400b87fde\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a47f54f635de7d20b4fce10400b87fde\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\54a6463602e092e46e6a3bac5a75d6f2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\54a6463602e092e46e6a3bac5a75d6f2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\291b0dc121fa3d21c4d609cf60748a6c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\291b0dc121fa3d21c4d609cf60748a6c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a6b723c7869879458195c7c80f7bb2e8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\a6b723c7869879458195c7c80f7bb2e8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\63d693d6393609dd312217953d27b75c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\63d693d6393609dd312217953d27b75c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\af4ce0c025385f4d674c3fbc90c74bbd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\af4ce0c025385f4d674c3fbc90c74bbd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\dfb7ac91904b3c5a9d1a67aa3c159bd7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\dfb7ac91904b3c5a9d1a67aa3c159bd7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\d88be84dffbca90874262a60190a4c2c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\d88be84dffbca90874262a60190a4c2c\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\bd3439c13c118ec0d73da42d8af76d68\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b04f2c4be16ad067ab6c37b78b3c3324\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\b04f2c4be16ad067ab6c37b78b3c3324\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3d3b0751e6f78ff8c1df2664b2714ed8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3d3b0751e6f78ff8c1df2664b2714ed8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6fabb262a35633339c88e4ab9edd41ea\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\6fabb262a35633339c88e4ab9edd41ea\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\0c170a5bf61b9b60ba30f013c401aa8b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\0c170a5bf61b9b60ba30f013c401aa8b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\871eada208e4b1d3c3f2e0d7eeb7730e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\871eada208e4b1d3c3f2e0d7eeb7730e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\763fff8338f14250d307a24463e7c6bd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\763fff8338f14250d307a24463e7c6bd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\208b9caf462c67f1190894c29d85fccf\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\208b9caf462c67f1190894c29d85fccf\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3eec0492784393c9e1fd138d70bf69db\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\3eec0492784393c9e1fd138d70bf69db\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\9881669981dc1910aa81989cb9ff5831\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\9881669981dc1910aa81989cb9ff5831\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ab0d30d0668f894bc7284ce2e7e6c524\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\ab0d30d0668f894bc7284ce2e7e6c524\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\61c08a0ae42250674b647968afabdbca\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Monardik\.gradle\caches\transforms-2\files-2.1\61c08a0ae42250674b647968afabdbca\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\HHH\Development\3k-baroda\wicker\android\app\src\main\AndroidManifest.xml

@@ -1,0 +1,14 @@
+com/wicker/MainActivity.java
+ com.wicker.MainActivity
+com/wicker/MainApplication.java
+ com.wicker.MainApplication
+ com.wicker.MainApplication$1
+com/wicker/ReactNativeFlipper.java
+ com.wicker.ReactNativeFlipper
+ com.wicker.ReactNativeFlipper$1
+ com.wicker.ReactNativeFlipper$2
+ com.wicker.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/wicker/BuildConfig.java
+ com.wicker.BuildConfig
